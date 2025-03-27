@@ -37,6 +37,7 @@ const Login = () => {
           name='username'
           value={loginData.username || ''}
           onChange={handleChange}
+          placeholder='Enter your username'
         />
       <label>Password</label>
         <input 
@@ -44,6 +45,8 @@ const Login = () => {
           name='password'
           value={loginData.password || ''}
           onChange={handleChange}
+          title='Password'
+          placeholder='Enter your password'
         />
         <button type='submit'>Submit Form</button>
       </form>
