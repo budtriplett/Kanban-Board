@@ -43,8 +43,6 @@ Bud Triplett
 
 ## Questions
 
-[https://github.com/bbybee1747/Kanband-Board](https://github.com/budtriplett/Kanban-Board)
-
 For additional questions, please contact me at bud.triplett@yahoo.com or https://github.com/budtriplett
 
 ## License
